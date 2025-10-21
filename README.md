@@ -60,12 +60,27 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧩 Featured Projects
-- 📘 [JAVA](https://github.com/sysypp/JAVA) — 알고리즘 & 자료구조 실습
-- 💾 [JDBC](https://github.com/sysypp/JDBC) — Java + Oracle DB 연동 실습
-- 🎨 [htmlwork](https://github.com/sysypp/htmlwork) — HTML/CSS 기초 연습
-- ⚙️ [javascript](https://github.com/sysypp/javascript) — DOM 조작 및 인터랙티브 기능 구현
-- 🗂 [ORACLE](https://github.com/sysypp/ORACLE) — SQL, PL/SQL 예제 모음
+### 📦 Featured Projects
+
+#### 🎓 Education & Learning Platforms
+- 🧩 [**GoBookEE**](https://github.com/GoBookEE/GoBookEE)  
+  → 교육 공간 대여 + 커뮤니티 통합형 플랫폼.  
+  사용자 간 지식 공유 및 공간 예약 시스템을 구축한 풀스택 프로젝트.  
+
+- 📚 [**OffCourse**](https://github.com/OfffCourse/OffCourse)  
+  → 강의 등록, 수강 신청, 리뷰 기능을 갖춘 모듈형 교육 플랫폼.  
+  Spring Boot 백엔드와 React 프론트엔드의 분리형 아키텍처로 구성.  
+
+- 🧠 [**AIR00m**](https://github.com/orgs/AIR00m/repositories)  
+  → AI 기반 디지털 교과서 플랫폼.  
+  Kafka, Redis, Elasticsearch를 활용해 학습 데이터 실시간 분석 및 시각화 구현.  
+
+#### 💻 Study & Practice Repositories
+- 💾 [JDBC](https://github.com/sysypp/JDBC) — Java + Oracle DB 연동 실습  
+- 📘 [JAVA](https://github.com/sysypp/JAVA) — 알고리즘 & 자료구조 실습  
+- 🎨 [htmlwork](https://github.com/sysypp/htmlwork) — HTML/CSS 기초 연습  
+- ⚙️ [javascript](https://github.com/sysypp/javascript) — DOM 조작 및 인터랙티브 기능 구현  
+- 🗂 [ORACLE](https://github.com/sysypp/ORACLE) — SQL, PL/SQL 예제 모음  
 
 ---
 
