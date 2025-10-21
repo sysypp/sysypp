@@ -71,15 +71,14 @@ Here are some ideas to get you started:
 
 ### 🧭 About Me
 - 💡 새로운 기술을 빠르게 익히고 프로젝트에 적용하는 걸 좋아합니다.  
-- ☕ 커피와 함께 코드를 리팩토링하는 시간이 제일 즐겁습니다.  
 - 🧱 문제를 단순화하고 구조적으로 해결하는 걸 선호합니다.  
 
 ---
 
 ### 📫 Contact
 <p align="left">
-  <a href="mailto:parkseoyoung0915@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sysypp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+- E-mail: parkseoyoung0915@gmail.com  
+- GitHub: [sysypp](https://github.com/sysypp)
 </p>
 
 ---
