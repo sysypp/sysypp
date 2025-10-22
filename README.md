@@ -76,6 +76,8 @@ Here are some ideas to get you started:
   Kafka, Redis, Elasticsearch를 활용해 학습 데이터 실시간 분석 및 시각화 구현.  
 
 #### 💻 Study & Practice Repositories
+- 💾 [SPRING](https://github.com/sysypp/springweb) — Spring Boot 실습
+- 💾 [SPRING+JPA](https://github.com/sysypp/springjpatest) — Spring + jpa 실습
 - 💾 [JDBC](https://github.com/sysypp/JDBC) — Java + Oracle DB 연동 실습  
 - 📘 [JAVA](https://github.com/sysypp/JAVA) — 알고리즘 & 자료구조 실습  
 - 🎨 [htmlwork](https://github.com/sysypp/htmlwork) — HTML/CSS 기초 연습  
